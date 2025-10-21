@@ -1,1 +1,11 @@
-
+datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-17T07:03:00.000Z,17 October 2025 - 07:03 AM,09.69,126.22,28,6.0,012km S 33° E of General Luna (Surigao Del Norte),012,S 33° E,General Luna (Surigao Del Norte)
+2025-10-20T19:35:00.000Z,20 October 2025 - 07:35 PM,06.97,127.48,13,5.7,107km S 76° E of Manay (Davao Oriental),107,S 76° E,Manay (Davao Oriental)
+2025-10-18T20:31:00.000Z,18 October 2025 - 08:31 PM,08.84,126.45,34,5.5,019km S 63° E of Cagwait (Surigao Del Sur),019,S 63° E,Cagwait (Surigao Del Sur)
+2025-10-19T09:34:00.000Z,19 October 2025 - 09:34 AM,06.95,127.36,20,5.2,095km S 72° E of Manay (Davao Oriental),095,S 72° E,Manay (Davao Oriental)
+2025-10-17T16:14:00.000Z,17 October 2025 - 04:14 PM,18.80,120.45,4,5.0,035km N 31° W of Burgos (Ilocos Norte),035,N 31° W,Burgos (Ilocos Norte)
+2025-10-15T03:26:00.000Z,15 October 2025 - 03:26 AM,07.36,127.20,17,5.0,075km N 77° E of Manay (Davao Oriental),075,N 77° E,Manay (Davao Oriental)
+2025-10-15T01:23:00.000Z,15 October 2025 - 01:23 AM,07.29,127.18,20,4.9,071km N 83° E of Manay (Davao Oriental),071,N 83° E,Manay (Davao Oriental)
+2025-10-17T16:31:00.000Z,17 October 2025 - 04:31 PM,18.66,120.69,7,4.7,017km N 15° E of Burgos (Ilocos Norte),017,N 15° E,Burgos (Ilocos Norte)
+2025-10-17T06:11:00.000Z,17 October 2025 - 06:11 AM,06.78,127.14,8,4.7,081km S 54° E of Manay (Davao Oriental),081,S 54° E,Manay (Davao Oriental)
+2025-10-16T07:46:00.000Z,16 October 2025 - 07:46 AM,06.80,127.28,10,4.7,093km S 61° E of Manay (Davao Oriental),093,S 61° E,Manay (Davao Oriental)
