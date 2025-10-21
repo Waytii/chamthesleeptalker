@@ -26,6 +26,7 @@ jobs:
               run: |
                 git config user.name "GitHub Action"
                 git config user.email "action@github.com"
+                git remote set-url origin https://x-access-token:${secret_wayt_wayt_wayt}@github.com/Waytii/chamthesleeptalker.git
                 git add *.csv || echo "No CSV files to add"
                 git commit -m "Update earthquake data" || echo "No changes to commit"
             
