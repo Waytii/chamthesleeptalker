@@ -1,4 +1,9 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T04:03:00.000Z,24 October 2025 - 04:03 AM,14.24,120.34,087,2.0,027km S 38° W of Mariveles (Bataan),027,S 38° W,Mariveles (Bataan)
+2025-10-24T03:58:00.000Z,24 October 2025 - 03:58 AM,09.66,126.27,034,3.7,019km S 42° E of General Luna (Surigao Del Norte),019,S 42° E,General Luna (Surigao Del Norte)
+2025-10-24T03:56:00.000Z,24 October 2025 - 03:56 AM,08.92,126.31,028,2.2,001km N 34° E of Cagwait (Surigao Del Sur),001,N 34° E,Cagwait (Surigao Del Sur)
+2025-10-24T03:38:00.000Z,24 October 2025 - 03:38 AM,11.02,123.97,004,3.2,004km S 24° W of City Of Bogo (Cebu),004,S 24° W,City Of Bogo (Cebu)
+2025-10-24T03:31:00.000Z,24 October 2025 - 03:31 AM,09.59,126.06,007,3.3,023km S 26° W of General Luna (Surigao Del Norte),023,S 26° W,General Luna (Surigao Del Norte)
 2025-10-24T03:01:00.000Z,24 October 2025 - 03:01 AM,11.13,123.94,007,2.2,010km N 25° W of City Of Bogo (Cebu),010,N 25° W,City Of Bogo (Cebu)
 2025-10-24T02:56:00.000Z,24 October 2025 - 02:56 AM,09.73,126.14,030,2.8,006km S 14° W of General Luna (Surigao Del Norte),006,S 14° W,General Luna (Surigao Del Norte)
 2025-10-24T02:53:00.000Z,24 October 2025 - 02:53 AM,18.48,121.19,001,2.2,010km S 24° W of Sanchez-mira (Cagayan),010,S 24° W,Sanchez-mira (Cagayan)
@@ -98,6 +103,3 @@ datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distan
 2025-10-23T04:10:00.000Z,23 October 2025 - 04:10 AM,07.63,126.59,019,2.1,007km N 25° E of Baganga (Davao Oriental),007,N 25° E,Baganga (Davao Oriental)
 2025-10-23T04:10:00.000Z,23 October 2025 - 04:10 AM,11.15,123.94,010,2.1,012km N 19° W of City Of Bogo (Cebu),012,N 19° W,City Of Bogo (Cebu)
 2025-10-23T04:07:00.000Z,23 October 2025 - 04:07 AM,07.40,126.67,011,2.8,025km N 34° E of Manay (Davao Oriental),025,N 34° E,Manay (Davao Oriental)
-2025-10-23T03:51:00.000Z,23 October 2025 - 03:51 AM,05.96,125.93,134,3.3,032km N 80° E of Jose Abad Santos (Davao Occidental),032,N 80° E,Jose Abad Santos (Davao Occidental)
-2025-10-23T03:41:00.000Z,23 October 2025 - 03:41 AM,09.66,126.20,033,1.6,014km S 20° E of General Luna (Surigao Del Norte),014,S 20° E,General Luna (Surigao Del Norte)
-2025-10-23T03:13:00.000Z,23 October 2025 - 03:13 AM,07.41,126.80,024,2.0,036km N 53° E of Manay (Davao Oriental),036,N 53° E,Manay (Davao Oriental)
