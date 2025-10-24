@@ -1,4 +1,6 @@
 datetime_iso,datetime_ph,latitude_(n),longitude_(e),depth_km,mag,location,distance_km,bearing,reference_location
+2025-10-24T19:50:00.000Z,24 October 2025 - 07:50 PM,09.63,126.17,034,1.5,017km S 05° E of General Luna (Surigao Del Norte),017,S 05° E,General Luna (Surigao Del Norte)
+2025-10-24T19:40:00.000Z,24 October 2025 - 07:40 PM,09.58,126.57,018,2.6,050km S 64° E of General Luna (Surigao Del Norte),050,S 64° E,General Luna (Surigao Del Norte)
 2025-10-24T19:16:00.000Z,24 October 2025 - 07:16 PM,08.56,125.40,136,2.0,020km S 56° W of Esperanza (Agusan Del Sur),020,S 56° W,Esperanza (Agusan Del Sur)
 2025-10-24T19:06:00.000Z,24 October 2025 - 07:06 PM,08.86,126.41,021,2.7,013km S 61° E of Cagwait (Surigao Del Sur),013,S 61° E,Cagwait (Surigao Del Sur)
 2025-10-24T18:50:00.000Z,24 October 2025 - 06:50 PM,05.92,126.07,124,2.4,047km N 89° E of Jose Abad Santos (Davao Occidental),047,N 89° E,Jose Abad Santos (Davao Occidental)
